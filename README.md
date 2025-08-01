@@ -1,6 +1,3 @@
-# Frontend Mentor - Perfil de links sociais
-
-![Prévia de design para o desafio de codificação de perfil de links sociais](./design/destkop-design.jpg)
 
 ## Bem-vindo! 👋
 
